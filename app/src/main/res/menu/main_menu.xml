@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/bed"
+        android:icon="@drawable/baseline_bed_24"
+        android:title="Bed"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/bathtub"
+        android:icon="@drawable/baseline_bathtub_24"
+        android:title="Bathtub"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:id="@+id/accessible"
+        android:icon="@drawable/baseline_accessible_forward_24"
+        android:title="Accessible Forward"
+        app:showAsAction="always"
+        />
+</menu>
